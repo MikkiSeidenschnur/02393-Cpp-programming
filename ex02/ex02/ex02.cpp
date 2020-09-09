@@ -72,11 +72,29 @@
 
 //EXERCISE 4
 #include <iostream>
+#include <cmath>
 
 using namespace std;
 
-int
+double pi(int n)
+{
+	double leibniz = 0;
+	for (unsigned int i = 0; i < n; i++)
+	{
+		leibniz = leibniz + pow(-1, i) / (2 * i + 1);
+	}
 
+	return leibniz * 4;
+}
 
+int main()
+{
+	int n;
+	cin >> n;
+
+	cout << pi(n) << endl;
+
+	return 0;
+}
 
 
