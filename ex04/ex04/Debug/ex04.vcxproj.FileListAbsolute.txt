@@ -1,0 +1,2 @@
+C:\Users\msei\repos\02393-Cpp-programming\ex04\ex04\Debug\ex04.exe
+C:\Users\msei\repos\02393-Cpp-programming\ex04\ex04\Debug\ex04.pdb
