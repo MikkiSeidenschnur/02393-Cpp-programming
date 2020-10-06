@@ -1,0 +1,2 @@
+C:\Users\msei\repos\02393-Cpp-programming\ex05\Debug\ex05.exe
+C:\Users\msei\repos\02393-Cpp-programming\ex05\Debug\ex05.pdb
