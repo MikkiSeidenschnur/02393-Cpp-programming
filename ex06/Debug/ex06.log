@@ -1,0 +1,3 @@
+﻿  ex06.cpp
+C:\Users\msei\repos\02393-Cpp-programming\ex06\ex06.cpp(21,7): warning C4101: 'op': unreferenced local variable
+  ex06.vcxproj -> C:\Users\msei\repos\02393-Cpp-programming\ex06\Debug\ex06.exe
