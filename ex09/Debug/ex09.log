@@ -1,0 +1,4 @@
+﻿  ex09.cpp
+C:\Users\msei\repos\02393-Cpp-programming\ex09\ex09.cpp(136,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\msei\repos\02393-Cpp-programming\ex09\ex09.cpp(140,20): warning C4018: '<': signed/unsigned mismatch
+  ex09.vcxproj -> C:\Users\msei\repos\02393-Cpp-programming\ex09\Debug\ex09.exe
