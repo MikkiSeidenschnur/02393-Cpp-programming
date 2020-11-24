@@ -1,0 +1,7 @@
+﻿  ex08.cpp
+C:\Users\Miksei\source\repos\ex08\ex08.cpp(21,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Miksei\source\repos\ex08\ex08.cpp(30,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Miksei\source\repos\ex08\ex08.cpp(41,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Miksei\source\repos\ex08\ex08.cpp(52,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Miksei\source\repos\ex08\ex08.cpp(62,23): warning C4018: '<': signed/unsigned mismatch
+  ex08.vcxproj -> C:\Users\Miksei\source\repos\ex08\Debug\ex08.exe
